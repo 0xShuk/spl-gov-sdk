@@ -1,4 +1,4 @@
-export type GovernanceIdl = 
+export type GovernanceIdl =
 {
   "version": "3.1.1",
   "name": "spl_governance",
@@ -461,11 +461,6 @@ export type GovernanceIdl =
         },
         {
           "name": "systemProgram",
-          "isMut": false,
-          "isSigner": false
-        },
-        {
-          "name": "rent",
           "isMut": false,
           "isSigner": false
         },
@@ -1221,11 +1216,6 @@ export type GovernanceIdl =
           "isSigner": false
         },
         {
-          "name": "rent",
-          "isMut": false,
-          "isSigner": false
-        },
-        {
           "name": "governanceAuthority",
           "isMut": false,
           "isSigner": true
@@ -1320,11 +1310,6 @@ export type GovernanceIdl =
         },
         {
           "name": "systemProgram",
-          "isMut": false,
-          "isSigner": false
-        },
-        {
-          "name": "rent",
           "isMut": false,
           "isSigner": false
         },

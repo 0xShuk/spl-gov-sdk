@@ -464,11 +464,6 @@
           "isSigner": false
         },
         {
-          "name": "rent",
-          "isMut": false,
-          "isSigner": false
-        },
-        {
           "name": "governanceAuthority",
           "isMut": false,
           "isSigner": true
@@ -1220,11 +1215,6 @@
           "isSigner": false
         },
         {
-          "name": "rent",
-          "isMut": false,
-          "isSigner": false
-        },
-        {
           "name": "governanceAuthority",
           "isMut": false,
           "isSigner": true
@@ -1319,11 +1309,6 @@
         },
         {
           "name": "systemProgram",
-          "isMut": false,
-          "isSigner": false
-        },
-        {
-          "name": "rent",
           "isMut": false,
           "isSigner": false
         },
